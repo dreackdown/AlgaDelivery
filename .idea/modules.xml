@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AlgaDelivery.iml" filepath="$PROJECT_DIR$/.idea/AlgaDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservices/Courier-Management/Courier-Management.iml" filepath="$PROJECT_DIR$/Microservices/Courier-Management/Courier-Management.iml" />
     </modules>
   </component>
 </project>
